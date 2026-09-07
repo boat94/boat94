@@ -32,7 +32,7 @@ Geospatial intelligence researcher with a PhD in Geography and Regional Planning
 
 ### 🗺️ About Me
 
-I'm a geospatial intelligence researcher with a PhD in Geography and Regional Planning from the **University of Cape Coast, Ghana** (2023). I served as a **Postdoctoral Research Scholar** at Arizona State University's **Knowledge Exchange for Resilience (KER) Center**, School of Geographical Sciences and Urban Planning, from March 2024 to June 2026, working with Prof. Patricia Solís.
+I'm a geospatial intelligence researcher with a PhD in Geography and Regional Planning from the **University of Cape Coast, Ghana** (2023). I served as a **Postdoctoral Research Scholar** at Arizona State University's **Knowledge Exchange for Resilience (KER) Center** and School of Geographical Sciences and Urban Planning, from March 2024 to June 2026, working with Prof. Patricia Solís.
 
 My work sits at the intersection of **GeoAI, remote sensing, public health, and environmental monitoring** — using geospatial data and machine learning to understand urban heat, water access, sanitation, and health outcomes, with a strong throughline of humanitarian and participatory mapping across Africa and beyond through **YouthMappers** and the **Humanitarian OpenStreetMap Team (HOT)**.
 
