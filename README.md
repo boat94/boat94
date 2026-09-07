@@ -11,7 +11,7 @@
 ### <sub>"Boat"</sub>
 ### Geospatial Intelligence Researcher
 
-Geospatial intelligence researcher with a PhD in Geography and Regional Planning from the **University of Cape Coast, Ghana**. Formerly a **Postdoctoral Research Scholar** at Arizona State University's **Knowledge Exchange for Resilience (KER) Center**. My work spans **GeoAI, remote sensing, public health, and environmental monitoring**, with a strong throughline of humanitarian and participatory mapping across Africa through **YouthMappers** and the **Humanitarian OpenStreetMap Team (HOT)**.
+Geospatial intelligence researcher with a PhD in Geography and Regional Planning from the **University of Cape Coast, Ghana**. Formerly a **Postdoctoral Research Scholar** at Arizona State University's **Knowledge Exchange for Resilience (KER) Center** and **School of Geographical Sciences and Urban Planning (SGSUP)**. My work spans **GeoAI, remote sensing, public health, and environmental monitoring**, with a strong throughline of humanitarian and participatory mapping across Africa through **YouthMappers** and the **Humanitarian OpenStreetMap Team (HOT)**.
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3911--5345-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3911-5345)
 [![Email](https://img.shields.io/badge/Email-enkboateng4%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:enkboateng4@gmail.com)
