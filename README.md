@@ -3,7 +3,8 @@
 <img src="assets/profile.jpg" width="180" height="180" style="border-radius:50%;object-fit:cover;" alt="Ebenezer Nana Kwaku Boateng"/>
 
 # Ebenezer Nana Kwaku Boateng, PhD
-### <sub>"Boat"</sub> · Geospatial Intelligence Researcher
+### <sub>"Boat"</sub>
+### Geospatial Intelligence Researcher
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=8C1D40&center=true&vCenter=true&width=680&lines=GeoAI+%7C+Remote+Sensing+%7C+Public+Health;Formerly+Postdoctoral+Scholar+%40+Arizona+State+University;Humanitarian+Mapping+with+HOT+%26+YouthMappers;27%2B+peer-reviewed+publications+on+geospatial+%26+public+health)](https://git.io/typing-svg)
 
