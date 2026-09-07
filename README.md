@@ -1,17 +1,30 @@
-<div align="center">
+<table>
+<tr>
+<td width="260" valign="top" align="center">
 
-<img src="assets/profile.jpg" width="180" height="180" style="border-radius:50%;object-fit:cover;" alt="Ebenezer Nana Kwaku Boateng"/>
+<img src="assets/profile.jpg" width="240" height="240" style="border-radius:50%;object-fit:cover;" alt="Ebenezer Nana Kwaku Boateng"/>
+
+</td>
+<td valign="top">
 
 # Ebenezer Nana Kwaku Boateng, PhD
 ### <sub>"Boat"</sub>
 ### Geospatial Intelligence Researcher
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=8C1D40&center=true&vCenter=true&width=680&lines=GeoAI+%7C+Remote+Sensing+%7C+Public+Health;Formerly+Postdoctoral+Scholar+%40+Arizona+State+University;Humanitarian+Mapping+with+HOT+%26+YouthMappers;27%2B+peer-reviewed+publications+on+geospatial+%26+public+health)](https://git.io/typing-svg)
+Geospatial intelligence researcher with a PhD in Geography and Regional Planning from the **University of Cape Coast, Ghana**. Formerly a **Postdoctoral Research Scholar** at Arizona State University's **Knowledge Exchange for Resilience (KER) Center**. My work spans **GeoAI, remote sensing, public health, and environmental monitoring**, with a strong throughline of humanitarian and participatory mapping across Africa through **YouthMappers** and the **Humanitarian OpenStreetMap Team (HOT)**.
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3911--5345-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3911-5345)
 [![Email](https://img.shields.io/badge/Email-enkboateng4%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:enkboateng4@gmail.com)
 [![HOT](https://img.shields.io/badge/HOT-Voting%20Member-e55a2b?style=flat&logo=openstreetmap&logoColor=white)](https://www.hotosm.org/en/members/ebenezer-boateng/)
 [![YouthMappers](https://img.shields.io/badge/YouthMappers-Alumni%20Council%20Chair-1e5b94?style=flat)](https://www.youthmappers.org/meet-our-team)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=8C1D40&center=true&vCenter=true&width=680&lines=GeoAI+%7C+Remote+Sensing+%7C+Public+Health;Formerly+Postdoctoral+Scholar+%40+Arizona+State+University;Humanitarian+Mapping+with+HOT+%26+YouthMappers;27%2B+peer-reviewed+publications+on+geospatial+%26+public+health)](https://git.io/typing-svg)
 
 </div>
 
